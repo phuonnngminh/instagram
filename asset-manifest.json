@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/instagram/static/css/main.8d87fc2a.css",
+    "main.js": "/instagram/static/js/main.7d276587.js",
+    "static/js/453.d862a6ff.chunk.js": "/instagram/static/js/453.d862a6ff.chunk.js",
+    "static/media/Profile.jpg": "/instagram/static/media/Profile.f444004dfa5bcaba16ab.jpg",
+    "static/media/logo.svg": "/instagram/static/media/logo.d7c29d5f472cce340838e6c3425d160c.svg",
+    "static/media/Reels.svg": "/instagram/static/media/Reels.8bac17b9f857179ab220fec84a242ae1.svg",
+    "static/media/Create.svg": "/instagram/static/media/Create.70222519aab5f0cc6d156a6a70ad7358.svg",
+    "static/media/Notifications.svg": "/instagram/static/media/Notifications.c2d9641764997c9802e204c0a2f71463.svg",
+    "static/media/Love.svg": "/instagram/static/media/Love.c08c6a8c73583eb435babc069c04cbe9.svg",
+    "static/media/Messages.svg": "/instagram/static/media/Messages.296bfc171e58b194de750a638f874c53.svg",
+    "index.html": "/instagram/index.html",
+    "static/media/Explore.svg": "/instagram/static/media/Explore.16c3d27ebd6a3cb531c3f8c5d9eb4101.svg",
+    "static/media/More.svg": "/instagram/static/media/More.6a9343997e300a9722593402d19e2bb4.svg",
+    "static/media/Emoji.svg": "/instagram/static/media/Emoji.3deeae3fc11e8adf526dd9e536b475f5.svg",
+    "static/media/Search.svg": "/instagram/static/media/Search.a1b5a69ac8dace0f762681f0a1ec3a26.svg",
+    "static/media/Direct.svg": "/instagram/static/media/Direct.bac168bdeaf0da07ae8cb202df01864b.svg",
+    "static/media/Unlike.svg": "/instagram/static/media/Unlike.a345181e89bba4b4e43f3b5757069e92.svg",
+    "static/media/Home.svg": "/instagram/static/media/Home.3e352b673e1cc20ceefef55efdf95266.svg",
+    "static/media/Save.svg": "/instagram/static/media/Save.58591c750f0c4f33b8d7a0a1587b289c.svg",
+    "static/media/Comment.svg": "/instagram/static/media/Comment.32833a9ca73c8d9038ebfd76e5b33ff7.svg",
+    "static/media/MoreOptions.svg": "/instagram/static/media/MoreOptions.73c7d1c005dd5afa6a60ba28ad90758f.svg",
+    "main.8d87fc2a.css.map": "/instagram/static/css/main.8d87fc2a.css.map",
+    "main.7d276587.js.map": "/instagram/static/js/main.7d276587.js.map",
+    "453.d862a6ff.chunk.js.map": "/instagram/static/js/453.d862a6ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d87fc2a.css",
+    "static/js/main.7d276587.js"
+  ]
+}
